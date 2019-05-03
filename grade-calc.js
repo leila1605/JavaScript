@@ -5,7 +5,7 @@
 
 
 //function
-let studentScore = function(numScore) {
+const studentScore = function(numScore) {
     let result = `${numScore}`;
     // conditions
     if(numScore >= 90 && numScore <= 100){
