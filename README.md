@@ -1,2 +1,2 @@
 # JavaScript
-Pure JS mini-projects
+Here are pure JS mini-challenges. 
